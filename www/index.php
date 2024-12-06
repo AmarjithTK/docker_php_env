@@ -1,7 +1,7 @@
 <?php
 $mysqli = new mysqli("db", "user", "password", "test_db");
 
-echo "hello gorld";
+echo "hello gorlsdgd";
 
 // Check connection
 if ($mysqli->connect_error) {
