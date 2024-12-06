@@ -1,5 +1,10 @@
 Usage
 
+simply run
+./startenv.sh
+
+anyways this is not restarting on boot so no need of advanced scripting here to maintain good memory usage
+
 
 docker-compose up --build
 
