@@ -27,5 +27,6 @@ eg: mysql -uamarjith -pamarjithpassword
 docker exec -it v2-db-1 bash to enter the container
 
 Tasks -----------
-name all the containers php, mysql,phpmyadmin,nginx
+
 add phpmyadmin container
+
